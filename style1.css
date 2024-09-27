@@ -1,0 +1,44 @@
+h1 {
+    color: forestgreen;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans';
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans';
+    font-weight: 600;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans MT';
+
+
+}
+
+button {
+    margin-top:30px;
+    color:black;
+    background-color: limegreen;
+    font-weight: 700;
+    font-size: large;
+
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content:center;
+}
+
+
+
+
+
